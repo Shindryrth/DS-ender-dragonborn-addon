@@ -1,0 +1,32 @@
+{
+    "model": "dragonsurvival:dsedba_ender_dragonborn",
+    "animation": "dragonsurvival:dsedba_ender_dragonborn.animation",
+    "can_hide_wings": true,
+    "bones_to_hide_for_toggle": ["LWing", "RWing"],
+    "emotes": "dragonsurvival:dragonborn_empty",
+    "default_icon": "dragonsurvival:textures/gui/custom/body/center/dseda_ender_dragon.png",
+    "modifiers": [],
+    "crouch_height_ratio": 0.83333333,
+    "mounting_offset": {
+        "dragon_offset": [
+            0.0,
+            0.35,
+            0.2
+        ],
+        "human_offset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "offset_per_scale_above_one": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "scaling_proportions": {
+        "eye_height": 0.0,
+        "height": 0.0,
+        "width": 0.0
+    }
+}

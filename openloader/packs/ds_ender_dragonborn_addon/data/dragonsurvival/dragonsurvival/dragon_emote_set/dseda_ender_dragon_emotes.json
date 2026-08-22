@@ -1,0 +1,181 @@
+{
+  "emotes": [
+    {
+      "animation_key": "dseda_emote_sit",
+      "blend": false,
+      "can_move": false,
+      "locks_head": false,
+      "locks_tail": true,
+      "loops": true
+    },
+    {
+      "animation_key": "dseda_emote_roar",
+      "blend": true,
+      "can_move": true,
+          "sound": {
+            "interval": 50,
+            "pitch": 1,
+            "sound_event": "minecraft:entity.ender_dragon.growl"
+          }
+    },
+    {
+      "animation_key": "dseda_emote_angry",
+      "blend": true,
+      "can_move": true,
+      "loops": true
+    },
+    {
+      "animation_key": "dseda_emote_sad",
+      "blend": true,
+      "can_move": true,
+      "loops": true
+    },
+    {
+      "animation_key": "dseda_emote_sleepy_eyes",
+      "blend": true,
+      "can_move": true,
+      "loops": true
+    },
+    {
+      "animation_key": "dseda_emote_tilt_head_left",
+      "blend": true,
+      "can_move": true,
+      "loops": true
+    },
+    {
+      "animation_key": "dseda_emote_tilt_head_right",
+      "blend": true,
+      "can_move": true,
+      "loops": true
+    },
+    {
+      "animation_key": "dseda_emote_sleep_left",
+      "blend": false,
+      "can_move": false,
+      "locks_head": true,
+      "locks_tail": true,
+      "loops": true
+    },
+    {
+      "animation_key": "dseda_emote_sleep_right",
+      "blend": false,
+      "can_move": false,
+      "locks_head": true,
+      "locks_tail": true,
+      "loops": true
+    },
+    {
+      "animation_key": "dseda_emote_sleep_front",
+      "blend": false,
+      "can_move": false,
+      "locks_head": true,
+      "locks_tail": true,
+      "loops": true
+    },
+    {
+      "animation_key": "dseda_emote_sleep_back",
+      "blend": false,
+      "can_move": false,
+      "locks_head": true,
+      "locks_tail": true,
+      "loops": true
+    },
+    {
+      "animation_key": "dseda_emote_rest",
+      "blend": false,
+      "can_move": false,
+      "locks_tail": true,
+      "loops": true
+    },
+    {
+      "animation_key": "dseda_emote_lay_down",
+      "blend": false,
+      "can_move": false,
+      "locks_tail": true,
+      "loops": true
+    },
+    {
+      "animation_key": "dseda_emote_laying_on_back",
+      "blend": false,
+      "can_move": false,
+      "locks_head": true,
+      "locks_tail": true,
+      "loops": true
+    },
+    {
+      "animation_key": "dseda_emote_leaning_on_wall",
+      "blend": false,
+      "can_move": false,
+      "locks_tail": true,
+      "loops": true
+    },
+    {
+      "animation_key": "dseda_emote_spinning_on_back",
+      "blend": false,
+      "can_move": false,
+      "locks_head": true,
+      "locks_tail": true,
+      "loops": true
+    },
+    {
+      "animation_key": "dseda_emote_spinning_on_back_fast",
+      "blend": false,
+      "can_move": false,
+      "locks_head": true,
+      "locks_tail": true,
+      "loops": true
+    },
+    {
+      "animation_key": "dseda_emote_spinning_on_back_absurd",
+      "blend": false,
+      "can_move": false,
+      "locks_head": true,
+      "locks_tail": true,
+      "loops": true
+    },
+    {
+      "animation_key": "dseda_emote_scare",
+      "blend": false,
+      "can_move": false,
+      "locks_tail": true,
+      "sound": {
+        "interval": 25,
+        "sound_event": "minecraft:entity.ender_dragon.growl"
+      }
+    },
+    {
+      "animation_key": "dseda_emote_battle_cry",
+      "blend": false,
+      "can_move": false,
+      "locks_head": true,
+      "locks_tail": true,
+          "sound": {
+            "interval": 25,
+            "volume": 2,
+            "sound_event": "minecraft:entity.ender_dragon.growl"
+          }
+    },
+    {
+      "animation_key": "dseda_emote_vibing",
+      "blend": false,
+      "can_move": false,
+      "locks_tail": true,
+      "loops": true
+    },
+    {
+      "animation_key": "dseda_emote_griefing",
+      "blend": false,
+      "can_move": false,
+      "locks_tail": true,
+      "loops": true
+    },    
+    {
+      "animation_key": "dseda_emote_T-pose",
+      "blend": false,
+      "can_move": false,
+      "locks_head": true,
+      "locks_tail": true,
+      "loops": true
+    }
+  ]
+}

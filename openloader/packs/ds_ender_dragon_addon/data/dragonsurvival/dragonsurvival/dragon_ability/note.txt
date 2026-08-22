@@ -1,3 +1,0 @@
-if you want to alter the way the way certain abilities work, it has been manually scripted in the ds_ender_dragon_addon folder (datapack namespace)
-
-in particular: crystal charge, ender dragon fireball, rejuvenate

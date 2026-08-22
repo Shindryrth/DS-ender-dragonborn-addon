@@ -1,0 +1,11 @@
+{
+	"species": "dragonsurvival:dsedba_ender_dragonborn",
+	"stage": "dragonsurvival:ender_dragonborn_adult",
+	"model": "dragonsurvival:dsedba_ender_dragonborn",
+	"parts": {
+		"base": "dsedba_ender_dragonborn_base_1",
+		"horns": "dsedba_ender_dragonborn_horns_1",
+		"magic": "dsedba_ender_dragonborn_magic_1",
+		"spikes": "dsedba_ender_dragonborn_spikes_1"
+	}
+}

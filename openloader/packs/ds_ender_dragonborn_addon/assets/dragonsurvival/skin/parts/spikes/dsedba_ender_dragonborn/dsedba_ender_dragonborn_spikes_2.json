@@ -1,0 +1,11 @@
+{
+    "key": "dsedba_ender_dragonborn_spikes_2",
+    "texture": "dragonsurvival:textures/dragon/custom/dseda_ender_dragon_spikes_2.png",
+    "average_hue": 0.0,
+    "applicable_species": [
+        "dragonsurvival:dsedba_ender_dragonborn"
+    ],
+    "applicable_bodies": [
+        "dragonsurvival:dsedba_ender_dragonborn"
+    ]
+}

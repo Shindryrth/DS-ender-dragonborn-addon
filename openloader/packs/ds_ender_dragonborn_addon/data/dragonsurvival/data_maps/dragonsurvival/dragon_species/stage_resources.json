@@ -1,0 +1,43 @@
+{
+	"values": {
+		"dragonsurvival:dsedba_ender_dragonborn": {
+			"neoforge:conditions": [
+				{
+					"type": "dragonsurvival:registered",
+					"registry": "dragonsurvival:dragon_species",
+					"value": "dragonsurvival:dsedba_ender_dragonborn"
+				}
+			],
+			"dragonsurvival:dsedba_ender_dragonborn_adult": {
+				"default_skin": {
+					"glow_skin": "dragonsurvival:textures/dragon/dsedba_ender_dragonborn/ender_dragonborn_base_glow.png",
+					"skin": "dragonsurvival:textures/dragon/dsedba_ender_dragonborn/ender_dragonborn_base.png"
+				},
+				"growth_icon": {
+					"hover_icon": "dragonsurvival:textures/gui/custom/stage/dseda_ender_dragon/adult_stage_hover.png",
+					"icon": "dragonsurvival:textures/gui/custom/stage/dseda_ender_dragon/adult_stage_main.png"
+				}
+			},
+			"dragonsurvival:dsedba_ender_dragonborn_ancient": {
+				"default_skin": {
+					"glow_skin": "dragonsurvival:textures/dragon/dsedba_ender_dragonborn/ender_dragonborn_base_glow.png",
+					"skin": "dragonsurvival:textures/dragon/dsedba_ender_dragonborn/ender_dragonborn_base.png"
+				},
+				"growth_icon": {
+					"hover_icon": "dragonsurvival:textures/gui/custom/stage/dsedba_ender_dragon/ancient_stage_hover.png",
+					"icon": "dragonsurvival:textures/gui/custom/stage/dseda_ender_dragon/ancient_stage_main.png"
+				}
+			},
+			"dragonsurvival:dsedba_ender_dragonborn_young": {
+				"default_skin": {
+					"glow_skin": "dragonsurvival:textures/dragon/dsedba_ender_dragonborn/ender_dragonborn_base_glow.png",
+					"skin": "dragonsurvival:textures/dragon/dsedba_ender_dragonborn/ender_dragonborn_base.png"
+				},
+				"growth_icon": {
+					"hover_icon": "dragonsurvival:textures/gui/custom/stage/dseda_ender_dragon/young_stage_hover.png",
+					"icon": "dragonsurvival:textures/gui/custom/stage/dseda_ender_dragon/young_stage_main.png"
+				}
+			}
+		}
+	}
+}

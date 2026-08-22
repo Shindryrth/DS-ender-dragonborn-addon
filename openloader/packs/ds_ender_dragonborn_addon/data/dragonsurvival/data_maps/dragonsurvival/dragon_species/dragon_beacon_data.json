@@ -1,0 +1,29 @@
+{
+	"values": {
+		"dragonsurvival:dseda_ender_dragon": {
+			"neoforge:conditions": [
+				{
+					"type": "dragonsurvival:registered",
+					"registry": "dragonsurvival:dragon_species",
+					"value": "dragonsurvival:dseda_ender_dragon"
+				}
+			],
+			"effects": [
+				{
+					"duration": 900,
+					"effect": "minecraft:regeneration",
+					"amplifier": 0
+				},
+				{
+					"duration": 900,
+					"effect": "minecraft:haste",
+					"amplifier": 2
+				}
+			],
+			"payment_data": {
+				"duration_multiplier": 30,
+				"experience_cost": 60
+			}
+		}
+	}
+}

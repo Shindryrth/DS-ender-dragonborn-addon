@@ -1,0 +1,11 @@
+{
+    "key": "dsedba_ender_dragonborn_base_1",
+    "texture": "dragonsurvival:textures/dragon/custom/dsedba_ender_dragonborn_base_1.png",
+    "average_hue": 0.0,
+    "applicable_species": [
+        "dragonsurvival:dsedba_ender_dragonborn"
+    ],
+    "applicable_bodies": [
+        "dragonsurvival:dsedba_ender_dragonborn"
+    ]
+}

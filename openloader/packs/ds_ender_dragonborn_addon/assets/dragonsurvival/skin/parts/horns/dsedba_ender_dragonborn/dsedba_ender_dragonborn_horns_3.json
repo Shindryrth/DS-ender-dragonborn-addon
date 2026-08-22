@@ -1,0 +1,11 @@
+{
+    "key": "dsedba_ender_dragonborn_horns_3",
+    "texture": "dragonsurvival:textures/dragon/custom/dsedba_ender_dragonborn_horns_3.png",
+    "average_hue": 0.0,
+    "applicable_species": [
+        "dragonsurvival:dsedba_ender_dragonborn"
+    ],
+    "applicable_bodies": [
+        "dragonsurvival:dsedba_ender_dragonborn"
+    ]
+}

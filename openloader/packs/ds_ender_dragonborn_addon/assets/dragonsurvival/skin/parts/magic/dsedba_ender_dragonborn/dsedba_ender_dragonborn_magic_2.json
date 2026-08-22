@@ -1,0 +1,12 @@
+{
+    "key": "dsedba_ender_dragonborn_magic_2",
+    "texture": "dragonsurvival:textures/dragon/custom/dsedba_ender_dragonborn_magic_2.png",
+    "average_hue": 0.82,
+    "is_glowing": true,
+    "applicable_species": [
+        "dragonsurvival:dsedba_ender_dragonborn"
+    ],
+    "applicable_bodies": [
+        "dragonsurvival:dsedba_ender_dragonborn"
+    ]
+}

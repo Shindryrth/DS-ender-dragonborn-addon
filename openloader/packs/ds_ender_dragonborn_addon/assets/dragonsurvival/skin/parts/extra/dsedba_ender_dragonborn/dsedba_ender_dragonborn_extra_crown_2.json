@@ -1,0 +1,11 @@
+{
+    "key": "dsedba_ender_dragonborn_extra_crown_2",
+    "texture": "dragonsurvival:textures/dragon/custom/dsedba_ender_dragonborn_extra_crown_2.png",
+    "average_hue": 0.805,
+    "applicable_species": [
+        "dragonsurvival:dsedba_ender_dragonborn"
+    ],
+    "applicable_bodies": [
+        "dragonsurvival:dsedba_ender_dragonborn"
+    ]
+}
