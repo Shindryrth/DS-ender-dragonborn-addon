@@ -535,7 +535,7 @@
 					"rotation": ["math.cos(q.anim_time*85.75*2+205)*2.5", 0, 0]
 				},
 				"Tail1": {
-					"rotation": ["-90+math.cos(q.anim_time*85.75*2+205)*2.5", 0, 0]
+					"rotation": ["math.cos(q.anim_time*85.75*2+205)*2.5", 0, 0]
 				}
 			}
 		},

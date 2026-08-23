@@ -1,6 +1,6 @@
 {
     "key": "dsedba_ender_dragonborn_extra_stripes",
-    "texture": "dragonsurvival:textures/dragon/custom/dseda_ender_dragon_extra_stripes.png",
+    "texture": "dragonsurvival:textures/dragon/custom/dsedba_ender_dragonborn_extra_stripes.png",
     "average_hue": 0.82,
     "is_glowing": true,
     "applicable_species": [

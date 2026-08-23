@@ -1,6 +1,6 @@
 {
 	"species": "dragonsurvival:dsedba_ender_dragonborn",
-	"stage": "dragonsurvival:ender_dragonborn_adult",
+	"stage": "dragonsurvival:dsedba_ender_dragonborn_adult",
 	"model": "dragonsurvival:dsedba_ender_dragonborn",
 	"parts": {
 		"base": "dsedba_ender_dragonborn_base_1",
