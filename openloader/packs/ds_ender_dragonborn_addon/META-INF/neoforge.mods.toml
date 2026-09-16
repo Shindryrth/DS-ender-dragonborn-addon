@@ -6,7 +6,7 @@ logoFile = "pack.png"
 
 [[mods]]
     modId = "ds_ender_dragonborn_addon"
-    version = "0.0.1"
+    version = "0.0.3"
     displayName = "Play as Ender Dragonborn - Dragon survival addon"
     authors = "Shindryrth"
     description = " An addon for dragon survival mod that allows you to become an ender dragonborn. \n\n Extra Credits:\n lool8421, - Original Ender Dragon Addon"
@@ -42,7 +42,7 @@ ordering = "NONE"
 [[dependencies.ds_ender_dragonborn_addon]]
 modId = "dragonborn_lib"
 mandatory = true
-versionRange = "[1.2.3,)"
+versionRange = "[1.3.0,)"
 ordering = "NONE"
 
 
