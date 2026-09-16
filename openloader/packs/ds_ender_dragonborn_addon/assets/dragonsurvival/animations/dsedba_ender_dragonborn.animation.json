@@ -48,7 +48,7 @@
 				}
 			}
 		},
-		"sleeping": {
+		"sleep_left": {
 			"loop": true,
 			"bones": {
 				"orb": {
@@ -1343,9 +1343,6 @@
 					"rotation": [0, "-math.cos(q.anim_time*85.75*1+90)*1.25", 0]
 				}
 			}
-		},
-		"empty": {
-			"loop": true
 		}
 	}
 }
